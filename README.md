@@ -1,5 +1,7 @@
 # 💫 About Me:
+👨‍🎓 I'm studying at Samara University (2024-2028)
 🌱 I’m currently learning Spring
+
 
 
 ## 🌐 Socials:
